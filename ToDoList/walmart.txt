@@ -1,0 +1,9 @@
+2
+test print
+3
+test print
+test
+1
+2
+1
+current list
